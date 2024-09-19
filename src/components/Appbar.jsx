@@ -18,7 +18,7 @@ const Appbar = () => {
 
   return (
     <div style={{ display: 'flex' }}>
-      <AppBar position="fixed">
+      <AppBar>
         <Toolbar>
           <IconButton
             color="inherit"

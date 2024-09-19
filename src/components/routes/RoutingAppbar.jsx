@@ -15,8 +15,8 @@ const RoutingAppbar = () => {
 
                
                 <Routes>
-                    <Route path='/'  element={<Login/>} />
-                    <Route path='*'  element={<Dashboard/>} />
+                    {/* <Route path='/'  element={<Login/>} /> */}
+                 
 
 
                 </Routes>
